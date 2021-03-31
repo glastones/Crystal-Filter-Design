@@ -13,6 +13,8 @@ The second solution is to contact with the manufacture and inform you with the c
 In schematics which show in the program shows only the transformers which need it (at which points) but not the tuning capacitors which need it. Those transformer are calculate mostly empirical.
 The values must be in the order of the Li of the crystals. 
 
+The pdf file shows how to calculate the transformer and a rule of thump of how to calculate the primary inductor.
+
 The program files.
 
 This program create a manufacture data file. A simple text file which could be send to the manufacture and it is used to observe the assumption which made. 
