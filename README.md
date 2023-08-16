@@ -34,7 +34,7 @@ Thoughts about improvements.
 The program is open source and all could be able to play with the code. 
 Because I am not a professional programmer I could not manage the code (too many units and code pure documentation). So I do not know when I could made an update. 
 The program calculate all values of the crystals. So If you have the actually crystal parameters you could not used them because there are not such options yet. I think that could be easy for example for someone to make a unit which could take as inputs the crystal parameters and could calculate with high accuracy the filter. Also higher order of crystal filter could be made by cascade the existing filters. 
-Because I am a bit lazy I copied a lot of times the same code. So a huge improvement in size and performance could be made by optimize the code. 
+
 Another think is the crystal cutting. The current algorithm suppose that the crystal has been order with X-Axis cut ant the angle is 35.25degrees which is the most common. 
 It will be useful if someone change that algorithm for other cuttings and other angles.
 Something that does not finished buy partial implement is the ability to print the screen. I do not consider that will be very useful because of the produced files. 
