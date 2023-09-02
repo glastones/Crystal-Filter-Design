@@ -1,7 +1,5 @@
 In this version printing function is working. I test it with microsoft pdf writer. In order to have complete information must first make the design and after when you come back in the main screen try to print.
 The prinitng function only print out the manufacture data and not the circuit data you may have.
-Also the transformer matching network needs some values for the primary or secontary in order to work. That come form a rule of thumb and the program consider that are always 20 turns. This will be corrected in 
-the next version because that number of turns should be too large for high frequency crystal filters.
 As always the source code is on the zip file and the executable if you like to run as portable. 
 The entire code has been made in Lazarus (free pascal).
 
