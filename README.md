@@ -1,5 +1,5 @@
 # glastone
-This program made in my spare time. It is made in order to calculate a Wideband discrete xtal crystal filters. 
+This program made in my spare time. It is made in order to calculate a Wideband discrete  crystal filters. 
 All equations comes from the Anatol Sverev handbook of filter synthesis book.
 The software tested in very little design and it seem to work fine. At least in at the frequency of the crystals seem to be ok. At least in simulation. 
 
