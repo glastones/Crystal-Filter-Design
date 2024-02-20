@@ -1,3 +1,4 @@
-In this version added a single 3 crystal parallel design as 1 branch. Not a very usefull design but some times may need it.
+In this version added a single 3 crystal parallel design as 1 branch. Not a very usefull design but some times may need it. Be careful for this designbecause is unbalnced. 
+Many times need a parallel inductor and capacitor to  tuneout the crystal c0 to provide a mosre balanced output in stopband.
 As always the source code is on the zip file and the executable if you like to run as portable. 
 The entire code has been made in Lazarus (free pascal).
