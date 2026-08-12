@@ -26,7 +26,7 @@ The values
 
 In this program you must enter the center frequency , span and motional capacitance. If you do not know it you could use a value from 1 to 9 fF. Form that value the algorithm calculate the spot size which need to be used so the Static capacitance occurs.
 
-Happy news for eveyone which may interesting. I manage to add more design to the program in 19/06/2023. Those are in Version 2 The problem is i haven't implement the print function which is not working yet.
+Happy news for everyone which may interesting. I manage to add more design to the program in 19/06/2023. Those are in Version 2 The problem is i haven't implement the print function which is not working yet.
 
 
 Thoughts about improvements.
