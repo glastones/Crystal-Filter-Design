@@ -1,0 +1,6 @@
+Manufacture Data 
+Center Frequency = 50000000 in Hz
+Bandwidth (-3d) = 500 in Hz
+Crytsal Harmonic = Fundamental
+Electrode Diameter = 112.739641749623 in mils
+Recommented PlateBack = 20
